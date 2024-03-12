@@ -1,0 +1,8 @@
+module memory();
+module reg_file(clk,w_en,reg_n,reg_m,reg_s,reg_d,w_data,operand_1,operand_2,shift_amt);
+input wire clk,w_en;
+input wire[9:0] read,write;
+input wire[7:0] w_data;
+output reg[7:0] read_o;
+reg[7:0] regs[1023:0];
+endmodule

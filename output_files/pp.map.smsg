@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ir_reg.v(5): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/pipelined/ir_reg.v Line: 5

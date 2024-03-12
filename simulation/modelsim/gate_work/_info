@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/pipelined/simulation/modelsim
+vhard_block
+Z1 !s110 1710134956
+!i10b 1
+!s100 m]C2NJT?2^f=Tcl7ofZGe3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I31CCn^bj42ZbnQ0fZniQ51
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1708110940
+Z5 8pp.vo
+Z6 Fpp.vo
+!i122 0
+L0 31210 45
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1710134956.000000
+Z9 !s107 pp.vo|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|pp.vo|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work +incdir+.
+Z13 tCvgOpt 0
+vpp
+R1
+!i10b 1
+!s100 =Cl1QPeUfdjBb:^90^`_O2
+R2
+I<<9IZ9lbdAK`n_F>i^0SM0
+R3
+R0
+w1710134881
+8C:/intelFPGA_lite/pipelined/pp.v
+FC:/intelFPGA_lite/pipelined/pp.v
+!i122 1
+L0 2 19
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA_lite/pipelined/pp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/pipelined|C:/intelFPGA_lite/pipelined/pp.v|
+!i113 1
+R11
+!s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/pipelined
+R13
+vreg_file
+R1
+!i10b 1
+!s100 C[PFWF4^iDH9=]f2Sbh6I1
+R2
+IEKkmhelJ?Ll_hgE[ElPJD2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 31 31178
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13

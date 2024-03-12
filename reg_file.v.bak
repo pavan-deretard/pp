@@ -1,0 +1,3 @@
+module reg_file(clk,reg_n,reg_m,reg_s,reg_d,operand_1,operand_2,shift_amt);
+
+endmodule

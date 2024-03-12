@@ -1,0 +1,14 @@
+module ir_reg(inst,clk,o_inst);
+input wire clk;
+input wire[31:0] inst;
+output reg[31:0] o_inst;
+always @(inst) begin
+	if(clk) begin
+		#1;
+		o_inst<=inst;
+	end
+	else begin
+	o_inst=o_inst;
+	end
+endmodule
+

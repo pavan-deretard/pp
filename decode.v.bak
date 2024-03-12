@@ -1,0 +1,10 @@
+module decoder(inst,clk,alu_op,reg_rw);
+input wire[31:0] inst;
+input wire clk;
+output reg[3:0] alu_op;
+output reg reg_rw;
+
+always @(posedge clk) begin
+		if(inst[31:28]==4'b1110)
+end
+endmodule

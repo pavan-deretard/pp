@@ -1,0 +1,11 @@
+`timescale 1ns/1ns
+module program_counter(clk,inc,rst,jmp,jmp_add,add);
+
+input wire clk,inc,rst,jmp;
+input wire[7:0] jmp_add;
+output reg[7:0] add;
+
+always @(posedge clk, posedge rst) begin
+	
+end
+endmodule
